@@ -1,6 +1,4 @@
-"""This is a test to see if I can create multiple nodes and assign all their information with a loop.
-Instructions:
-Should work fine as is. Instantiate and go.
+"""Create multiple nodes and assign information with loops.
 """
 
 import geni.portal as portal
