@@ -56,3 +56,4 @@ for i in range( params.n ):
 #link.addInterface(iface1)
 #link.addInterface(iface2)
 
+portal.context.printRequestRSpec()
